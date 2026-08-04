@@ -8,7 +8,7 @@
 - 🎓 Currently pursuing **B.Sc. in Computer Science & Engineering**
 - 🧠 Passionate about **problem-solving**, **algorithm design**, and **system development**
 - 💻 I practice **competitive programming using C++**
-- 🛠️ I develop software using **C++** and **Java**
+- 🛠️ I develop software using **C++**, **Java** and **Python**
 
 ---
 

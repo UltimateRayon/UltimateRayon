@@ -1,4 +1,4 @@
-<h1 align="center">Mushfiq Iqbal Rayon</h1>
+<h1 align="center">Mushfiq Iqbal</h1>
 <h3 align="center">CS Undergrad | Developer & Competitive Programmer</h3>
 
 ---
